@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # Artifactory details
 ARTIFACTORY_URL=""
 ARTIFACTORY_USER=""
